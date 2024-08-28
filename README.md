@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a l
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Devirathore07](https://www.linkedin.com/in/devirathore07/)
-- **Email:** devirathore07@example.com
+- **LinkedIn:** [Devirathore07](https://www.linkedin.com/in/devi-kumari/)
+- **Email:** devirathore07@gmail.com
 
 ## 🌱 I'm Currently Learning
 
@@ -33,8 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a l
 
 ## 💻 Featured Projects
 
-1. **[Quiz Game Application](https://github.com/devirathore07/quiz-game-app):** A real-time multiplayer quiz game using React, Node.js, Express, and Socket.io for seamless communication and live updates.
-2. **[Bookstore App](https://github.com/devirathore07/bookstore-app):** A MERN stack application that allows users to browse books, register, and purchase securely.
+1. **[Bookstore App](https://github.com/devirathore07/bookstore-app):** A MERN stack application that allows users to browse books, register, and purchase securely.
 
 Feel free to explore my repositories, open issues, or reach out for collaboration!
 
