@@ -9,12 +9,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 - 👥 I believe in open-source collaboration and enjoy contributing to projects that make a difference.
 - 🛠️ Interested in working on challenging problems, learning from others, and sharing my knowledge through coding and content creation.
 
-## 🔧 Technologies & Tools
-
-- **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs
-- **DevOps & Tools:** Git, Docker, CI/CD, Postman, Vite
-- **Other:** Agile methodologies, Unit Testing (Jest, Mocha)
 
 ## 📈 GitHub Stats
 
@@ -25,11 +19,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 - **LinkedIn:** [Devi Kumari](https://www.linkedin.com/in/devi-kumari/)
 - **Email:** devirathore07@gmail.com
 
-## 🌱 I'm Currently Learning
-
-- Advanced React Patterns
-- Cloud Deployment (AWS, Azure)
-- Serverless Architecture
 
 ## 💻 Featured Projects
 
